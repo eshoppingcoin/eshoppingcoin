@@ -1,0 +1,9 @@
+Building eshoppingcoin
+
+See doc/readme-qt.rst for instructions on building eshoppingcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of eshoppingcoin.
+
+See doc/build-*.txt for instructions on building eshoppingcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of eshoppingcoin.
